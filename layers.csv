@@ -1,0 +1,4 @@
+matrix,volume fraction,fiber,orientation,thickness
+HM,0.6,T300,45,0.001
+HM,0.6,T300,90,0.001
+HM,0.6,T300,45,0.001
